@@ -13,10 +13,22 @@ Persamaan : x^3 + 11x^2 - 16x - 320
   xl = -2
   xu = 7
   x sebenarnya = 5
-  
-Rumus
+
+![image](https://user-images.githubusercontent.com/108170236/198197992-4386f7f0-94e7-4b24-9590-45e539e3f3d3.png)
+
+Rumus.
 
 ![1](https://user-images.githubusercontent.com/108170236/198196735-175a72b7-8e16-4e44-8fc0-e3a00c1ae5f1.png)
+
+Memasukkan input dan mendeklarasikan xL, xU, xTrue, dan error. Error disini merupakan batasan error yang mendekati sebenarnya
+
+![image](https://user-images.githubusercontent.com/108170236/198197110-e72bfbf0-c9a4-4af2-92e3-75d02479822b.png)
+
+Syarat yang harus dipenuhi dalam Metode Bolzano kemudian apabila memenuhi maka akan diteruskan ke fungsi bolzano
+
+![image](https://user-images.githubusercontent.com/108170236/198197501-5594b6e8-6215-4f0a-9254-e21edf20f960.png)
+
+
 
 
 
