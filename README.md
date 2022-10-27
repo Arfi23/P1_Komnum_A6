@@ -37,6 +37,10 @@ Kemudian di-plot ke grafik
 
 ![image](https://user-images.githubusercontent.com/108170236/198201035-5bf29604-15dc-4768-bca5-de51349381fc.png)
 
+Grafik Bolzano
+
+![image](https://user-images.githubusercontent.com/108170236/198201495-c8397e58-e6c2-4ce6-a65d-48518ccc830c.png)
+
 
 
 
