@@ -37,6 +37,13 @@ Kemudian di-plot ke grafik
 
 ![image](https://user-images.githubusercontent.com/108170236/198201035-5bf29604-15dc-4768-bca5-de51349381fc.png)
 
+Output, 
+xL = -2
+xU = 7
+x sebenarnya = 5
+
+![image](https://user-images.githubusercontent.com/108170236/198201702-a4edb54f-709d-4055-84bb-c3cdc7b93eb7.png)
+
 Grafik Bolzano
 
 ![image](https://user-images.githubusercontent.com/108170236/198201495-c8397e58-e6c2-4ce6-a65d-48518ccc830c.png)
