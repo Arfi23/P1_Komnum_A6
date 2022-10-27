@@ -15,6 +15,7 @@ Persamaan : x^3 + 11x^2 - 16x - 320
   x sebenarnya = 5
   
 Rumus
+
 ![1](https://user-images.githubusercontent.com/108170236/198196735-175a72b7-8e16-4e44-8fc0-e3a00c1ae5f1.png)
 
 
