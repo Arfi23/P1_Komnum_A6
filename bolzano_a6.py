@@ -18,7 +18,7 @@ def f(x):
 y = []
 x1 = []
 
-def bisection(xL,xU,xTrue,error): 
+def bolzano(xL,xU,xTrue,error): 
   i = 1
   xR = 0
   condition = True 
@@ -58,7 +58,7 @@ if f(xL)*f(xU)>0:
    print("syarat dari f(xL) x f(xU) < 0 belum terpenuhi")
    print("masukkan ulang nilai")
 else: 
-   bisection(xL,xU,xTrue,error)
+   bolzano(xL,xU,xTrue,error)
 
 xx = np.array(myarray)
 yy = np.array(myarray2)
