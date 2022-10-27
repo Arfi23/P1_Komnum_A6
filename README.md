@@ -28,6 +28,15 @@ Syarat yang harus dipenuhi dalam Metode Bolzano kemudian apabila memenuhi maka a
 
 ![image](https://user-images.githubusercontent.com/108170236/198197501-5594b6e8-6215-4f0a-9254-e21edf20f960.png)
 
+Plotting Grafik
+Semua nilai xR ditampung di dalam myarray lalu dimasukkan ke variabel xx
+Semua nilai f(xR) ditampung di dalam myarray2 lalu dimasukkan ke variabel yy
+Kemudian di-plot ke grafik
+
+![22](https://user-images.githubusercontent.com/108170236/198200911-29491f6f-66f7-46c1-85d5-9208189a1ded.png)
+
+![image](https://user-images.githubusercontent.com/108170236/198201035-5bf29604-15dc-4768-bca5-de51349381fc.png)
+
 
 
 
